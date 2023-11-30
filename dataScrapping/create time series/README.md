@@ -1,0 +1,1 @@
+1. createTieSeries.py contains the basic code that can work for one district at a time in final.py the process is automated.

@@ -3,7 +3,7 @@ import time
 from yearly import *
 
 # Define the directory path
-directory_path = "/Users/manisarthak/Desktop/cgwb_1/"
+directory_path = "~/CGWB/yearly/"
 
 # year to fetch from before ie 2023 2022 2021 and so on till 1994
 LAST_YEAR = 2023
