@@ -1,0 +1,1 @@
+The three major sections of my work are here, so that scripts are easy to find. For detailed description and for the CGWB dataset please check my ![GitHub](https://github.com/mani-sarthak) repositories ![CGWB data](https://github.com/mani-sarthak/CGWB) and ![COD](https://github.com/mani-sarthak/COD).
